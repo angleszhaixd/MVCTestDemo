@@ -8,3 +8,4 @@ If you do not get this option please check you Pacakge Management setting.
 1. Goto Tools-> Options.
 2. Select 'Package Manager' from the list on the left.
 3. Check the only item available under section 'Package Restore'.
+测试项目
